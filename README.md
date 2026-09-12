@@ -44,7 +44,7 @@ Software Engineer and **Team Lead** at **Typetech-IT**, specializing in scalable
 <p><img src="https://img.shields.io/badge/TECH%20STACK-2E97F7?style=for-the-badge&logoColor=white" alt="Tech Stack" /></p>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,nodejs,express,nestjs,postgres,mongodb,prisma,docker,git,github,vercel,postman&perline=8" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,nodejs,express,nestjs,postgres,mongodb,drizzle,docker,git,github,vercel,postman&perline=8" alt="Tech Stack Icons" />
 </div>
 
 <br />
