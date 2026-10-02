@@ -33,7 +33,7 @@ Software Engineer and **Team Lead** at **Typetech-IT**, specializing in scalable
 
 - 💼 **Current Role:** Software Engineer & Team Lead at [Typetech-IT](https://s0vers.com).
 - 👥 **Team Leadership:** Coordinate sprint deliverables, manage engineering workflows, and mentor developers on clean code and system design.
-- 🔨 **Currently Building:** [**Sulator**](https://sulator.s0vers.com/) — A tracking-first workspace for agile project operations.
+- 🔨 **Currently Building:** something secret
 - 🌟 **Open-Source Milestone:** Author of [**next-app-i18n-starter**](https://github.com/s0vers/next-app-i18n-starter) — Next.js 16 starter with Server Components, `next-intl`, and shadcn/ui (60+ ⭐).
 - ⚡ **Core Focus:** Server Components, App Router, Internationalization (i18n), type-safe database layers, and API performance.
 - 📬 **Let's Talk:** Available for select freelance engineering, architecture consulting, and product collaboration.
