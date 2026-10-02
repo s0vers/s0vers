@@ -65,17 +65,6 @@ Software Engineer and **Team Lead** at **Typetech-IT**, specializing in scalable
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://sulator.s0vers.com/">⚡ Sulator</a></h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/PRODUCT-IN%20ACTIVE%20DEVELOPMENT-2E97F7?style=for-the-badge" alt="Status" />
-        <img src="https://img.shields.io/badge/ACCESS-PRIVATE%20BUILD-FF2E93?style=for-the-badge" alt="Access" />
-      </p>
-      <p>A tracking-first workspace for agile project operations. Unifies session-first time tracking, sprint planning boards, workforce attendance, role-based controls, and EN/ES/AR (RTL) internationalization into a cohesive operating platform.</p>
-      <p align="center">
-        <a href="https://sulator.s0vers.com/" target="_blank"><b>🌐 Explore Live Web App</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/s0vers/next-app-i18n-starter">🌐 next-app-i18n-starter</a></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/STARS-64%20%E2%AD%90-FFE600?style=for-the-badge&labelColor=000000" alt="Stars" />
