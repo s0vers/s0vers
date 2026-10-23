@@ -23,11 +23,6 @@ npx skills add s0vers/next-app-i18n-starter
 **[Portfolios for my friends](https://friends.s0vers.com)**<br />
 I’m rebuilding portfolio sites for friends. They share a codebase, but everything visible is made for the person.
 
-### Worked on
-
-**[Adventist Inbox](https://s0vers.com/projects/adventist-inbox)**, primary contributor since April 2024<br />
-An omnichannel messaging platform: customer and admin web apps plus API, scheduler, media, email, WebChat, and TypeScript SDK services, across nine repositories.
-
 ### Skills
 
 - **Languages & Frontend:** TypeScript, JavaScript, Next.js, React, Tailwind CSS, shadcn/ui, Figma
