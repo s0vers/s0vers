@@ -1,41 +1,62 @@
-<a href="https://s0vers.com">
-  <img src="assets/hello.svg" width="100%" alt="Pixel art of Sovers typing at a laptop in a room at night, next to the words: Hi, I’m Sovers. Sovers Tonmoy Pandey, or s0vers online. Based in Dhaka. Team Lead and software engineer at Typetech-IT." />
-</a>
+<div align="center">
 
-I write software, and I spend most evenings on agentic programming, building things together with AI agents, which is also, honestly, what I do for fun. The rest of the time I’m playing games or watching something.
+<img src="https://readme-typing-svg.demolab.com?font=Schibsted+Grotesk&weight=600&size=28&duration=3000&pause=1200&color=FFC700&center=true&vCenter=true&width=640&height=56&lines=Hi%2C+I%E2%80%99m+Sovers.;I+build+things+with+AI+agents.;Mostly+after+dark%2C+from+Dhaka." alt="Hi, I’m Sovers. I build things with AI agents. Mostly after dark, from Dhaka." />
 
-Lately I’m learning content creation and marketing alongside engineering, and reading *Meditations* by Marcus Aurelius.
+<a href="https://s0vers.com"><img src="https://s0vers.com/avatar.svg" width="384" alt="Pixel art of Sovers typing at a laptop in a room, with Dhaka’s current sky out the window" /></a>
 
-[s0vers.com](https://s0vers.com) · [connect@s0vers.com](mailto:connect@s0vers.com) · [LinkedIn](https://www.linkedin.com/in/sovers-pandey) · [X](https://x.com/s0ver5)
+<sub>That’s my room. The window follows Dhaka’s real time and weather, so come back at sunset.</sub>
+
+</div>
+
+<br />
+
+By day I build web apps. By night I build things together with AI agents, which is also, honestly, what I do for fun. Whatever’s left goes to games and whatever I’m watching.
 
 ### Things I make
 
-**[Next.js i18n Starter](https://github.com/S0vers/next-app-i18n-starter)** &nbsp;<img src="https://img.shields.io/github/stars/S0vers/next-app-i18n-starter?style=flat&label=stars&labelColor=141414&color=141414" alt="GitHub stars" valign="middle" /><br />
-An open-source Next.js 16 starter for multilingual apps: five locales, Arabic RTL, locale-aware formatting, and SEO metadata for every language. [Live demo](https://next-app-i18n-starter.vercel.app) · [Write-up](https://s0vers.com/projects/next-app-i18n-starter)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://s0vers.com/projects/next-app-i18n-starter"><img src="https://s0vers.com/projects/i18n-starter-ar.webp" alt="The i18n starter’s demo page in Arabic, mirrored right to left" /></a>
+      <br />
+      <b><a href="https://github.com/S0vers/next-app-i18n-starter">Next.js i18n Starter</a></b>&nbsp;
+      <img src="https://img.shields.io/github/stars/S0vers/next-app-i18n-starter?style=flat&label=%E2%98%85&labelColor=141414&color=141414" alt="GitHub stars" valign="middle" />
+      <br />
+      <sub>Five languages, Arabic mirrored right to left, and SEO that finds every one of them.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://friends.s0vers.com"><img src="https://s0vers.com/projects/friends-evan-assembly.webp" alt="A friend’s portfolio with four 3D system layers assembling above an architecture plan" /></a>
+      <br />
+      <b><a href="https://friends.s0vers.com">Portfolios for my friends</a></b>
+      <br />
+      <sub>One codebase, and every site is built around the person. Lots of Three.js and GSAP.</sub>
+    </td>
+  </tr>
+</table>
 
-**[Agent skills for Next.js i18n and SEO](https://github.com/S0vers/next-app-i18n-starter/tree/main/.agents/skills)**<br />
-Eight skills that teach coding agents how to do internationalization and SEO properly in Next.js, each with its own evals. They ship inside the starter and install into any project with one command:
+**Agent skills that teach your coding agent Next.js i18n and SEO.** Eight of them, each with its own evals. One line to try:
 
 ```bash
 npx skills add s0vers/next-app-i18n-starter
 ```
 
-**[Portfolios for my friends](https://friends.s0vers.com)**<br />
-I’m rebuilding portfolio sites for friends. They share a codebase, but everything visible is made for the person.
+### On my desk
 
-### Skills
+<img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,nodejs,express,postgres,mongodb,bun,vercel,figma&theme=dark" alt="TypeScript, Next.js, React, Tailwind CSS, Node.js, Express, PostgreSQL, MongoDB, Bun, Vercel, Figma" />
 
-- **Languages & Frontend:** TypeScript, JavaScript, Next.js, React, Tailwind CSS, shadcn/ui, Figma
-- **Backend & Data:** Node.js, Express, REST APIs, WebSockets, PostgreSQL, MongoDB, Drizzle ORM
-- **Architecture & Quality:** Microservices, Server Components, Internationalization, SEO, JWT
-- **Delivery & Tools:** Bun, Vercel, Git, lint/build automation
+### Lately
 
-### Work
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/S0vers/s0vers/output/snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/S0vers/s0vers/output/snake-light.svg" alt="A snake eating my GitHub contribution graph" />
+</picture>
 
-**Team Lead / Software Engineer** at [Typetech-IT](https://www.typetechit.com), January 2026 to now<br />
-I lead delivery of client web apps and microservices, own planning, architecture, reviews, and releases, and mentor the developers on the team.
+Reading *Meditations* by Marcus Aurelius. Learning content creation and marketing, slowly.
 
-**Full-Stack Developer** at [Typetech-IT](https://www.typetechit.com), October 2024 to December 2025<br />
-Shipped 3+ applications across housing, e-commerce, and parking management, including Homevest and Q Chicken.
+<br />
 
-**BSc in Computer Science Engineering**, BRAC University, 2016 to 2022
+<div align="center">
+
+[s0vers.com](https://s0vers.com) &nbsp;·&nbsp; [connect@s0vers.com](mailto:connect@s0vers.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/sovers-pandey) &nbsp;·&nbsp; [X](https://x.com/s0ver5)
+
+</div>
