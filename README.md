@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Schibsted+Grotesk&weight=600&size=28&duration=3000&pause=1200&color=FFC700&center=true&vCenter=true&width=640&height=56&lines=Hi%2C+I%E2%80%99m+Sovers.;I+build+things+with+AI+agents.;Mostly+after+dark%2C+from+Dhaka." alt="Hi, I’m Sovers. I build things with AI agents. Mostly after dark, from Dhaka." />
+<img src="https://readme-typing-svg.demolab.com?font=Schibsted+Grotesk&weight=600&size=28&duration=3000&pause=1200&color=FFC700&center=true&vCenter=true&width=640&height=56&lines=Hi%2C+I%E2%80%99m+Sovers.;I+build+things+with+AI+agents.;Software+engineer+in+Dhaka." alt="Hi, I’m Sovers. I build things with AI agents. Software engineer in Dhaka." />
 
 <a href="https://s0vers.com"><img src="https://s0vers.com/avatar.svg" width="384" alt="Pixel art of Sovers typing at a laptop in a room, with Dhaka’s current sky out the window" /></a>
 
@@ -10,7 +10,7 @@
 
 <br />
 
-By day I build web apps. By night I build things together with AI agents, which is also, honestly, what I do for fun. Whatever’s left goes to games and whatever I’m watching.
+I write software, and I spend most evenings on agentic programming, building things together with AI agents, which is also, honestly, what I do for fun. The rest of the time I’m playing games or watching something.
 
 ### Things I make
 
