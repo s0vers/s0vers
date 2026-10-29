@@ -28,13 +28,13 @@ Team Lead / Software Engineer at [Typetech-IT](https://www.typetechit.com) · Dh
 
 ### Featured
 
-<a href="https://github.com/S0vers/next-app-i18n-starter"><img src="https://github-readme-stats-fast.vercel.app/api/pin?username=S0vers&repo=next-app-i18n-starter&bg_color=141414&title_color=F472B6&text_color=9B9B9B&icon_color=F472B6&border_color=262626&border_radius=14" alt="next-app-i18n-starter" /></a>
+<a href="https://github.com/S0vers/next-app-i18n-starter"><img src="https://s0vers.com/github/pin/next-app-i18n-starter" alt="next-app-i18n-starter" /></a>
 
 Its [agent skills](https://github.com/S0vers/next-app-i18n-starter/tree/main/.agents/skills) teach coding agents Next.js i18n and SEO: `npx skills add s0vers/next-app-i18n-starter`
 
 ### GitHub stats
 
-<a href="https://github.com/S0vers"><img src="https://github-readme-stats-fast.vercel.app/api?username=S0vers&show_icons=true&hide_rank=true&include_all_commits=true&bg_color=141414&title_color=4ADE80&text_color=EBEBEB&icon_color=4ADE80&ring_color=4ADE80&border_color=262626&border_radius=14" height="165" alt="GitHub stats" /></a>
-<a href="https://github.com/S0vers"><img src="https://streak-stats.demolab.com/?user=S0vers&background=141414&border=262626&stroke=262626&ring=4ADE80&fire=FFC700&currStreakNum=EBEBEB&sideNums=EBEBEB&currStreakLabel=4ADE80&sideLabels=9B9B9B&dates=9B9B9B&border_radius=14" height="165" alt="GitHub streak" /></a>
+<a href="https://github.com/S0vers"><img src="https://s0vers.com/github/stats.svg" height="165" alt="GitHub stats" /></a>
+<a href="https://github.com/S0vers"><img src="https://s0vers.com/github/streak.svg" height="165" alt="GitHub streak" /></a>
 
-<a href="https://github.com/S0vers"><img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=S0vers&layout=compact&bg_color=141414&title_color=4ADE80&text_color=EBEBEB&border_color=262626&border_radius=14" height="170" alt="Top languages" /></a>
+<a href="https://github.com/S0vers"><img src="https://s0vers.com/github/languages.svg" height="170" alt="Top languages" /></a>
