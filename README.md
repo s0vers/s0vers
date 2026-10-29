@@ -2,7 +2,6 @@
 
 <a href="https://s0vers.com"><img src="https://s0vers.com/avatar.svg" width="360" alt="Pixel art of Sovers typing at a laptop in a room, with Dhaka’s current sky out the window, this month’s GitHub activity on a wall calendar, a book on the shelf for each repo and language stickers on the laptop" /></a>
 
-<sub>The window follows Dhaka’s real time, season and weather. The rest is my GitHub: this month on the wall calendar, my repos as books on the shelf, my languages as stickers on the laptop.</sub>
 
 # Sovers Tonmoy Pandey
 
