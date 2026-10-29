@@ -32,6 +32,6 @@ Team Lead / Software Engineer at [Typetech-IT](https://www.typetechit.com) · Dh
 
 Its [agent skills](https://github.com/S0vers/next-app-i18n-starter/tree/main/.agents/skills) teach coding agents Next.js i18n and SEO: `npx skills add s0vers/next-app-i18n-starter`
 
-### On GitHub
+### GitHub stats
 
-<a href="https://github.com/S0vers"><img src="https://s0vers.com/github/summary.svg" width="560" alt="My GitHub activity in two sentences: total contributions, main language and current streak" /></a>
+<a href="https://github.com/S0vers"><img src="https://s0vers.com/github/stats.svg" width="800" alt="GitHub stats: contributions and streaks, stars, commits, pull requests, issues, and most used languages" /></a>
