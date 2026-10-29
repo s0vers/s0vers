@@ -1,8 +1,8 @@
 <div align="center">
 
-<a href="https://s0vers.com"><img src="https://s0vers.com/avatar.svg" width="360" alt="Pixel art of Sovers typing at a laptop in a room, with Dhaka’s current sky out the window" /></a>
+<a href="https://s0vers.com"><img src="https://s0vers.com/avatar.svg" width="360" alt="Pixel art of Sovers typing at a laptop in a room, with Dhaka’s current sky out the window and this month’s GitHub activity on a wall calendar" /></a>
 
-<sub>The window follows Dhaka’s real time, season and weather.</sub>
+<sub>The window follows Dhaka’s real time, season and weather. The calendar on the wall is my GitHub this month.</sub>
 
 # Sovers Tonmoy Pandey
 
@@ -32,9 +32,6 @@ Team Lead / Software Engineer at [Typetech-IT](https://www.typetechit.com) · Dh
 
 Its [agent skills](https://github.com/S0vers/next-app-i18n-starter/tree/main/.agents/skills) teach coding agents Next.js i18n and SEO: `npx skills add s0vers/next-app-i18n-starter`
 
-### GitHub stats
+### On GitHub
 
-<a href="https://github.com/S0vers"><img src="https://s0vers.com/github/stats.svg" height="165" alt="GitHub stats" /></a>
-<a href="https://github.com/S0vers"><img src="https://s0vers.com/github/streak.svg" height="165" alt="GitHub streak" /></a>
-
-<a href="https://github.com/S0vers"><img src="https://s0vers.com/github/languages.svg" height="170" alt="Top languages" /></a>
+<a href="https://github.com/S0vers"><img src="https://s0vers.com/github/summary.svg" width="560" alt="My GitHub activity in two sentences: total contributions, main language and current streak" /></a>
