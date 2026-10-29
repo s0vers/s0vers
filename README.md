@@ -24,7 +24,7 @@ Team Lead / Software Engineer at [Typetech-IT](https://www.typetechit.com) · Dh
 
 ### Tech stack
 
-<picture><source media="(max-width: 600px)" srcset="https://skillicons.dev/icons?i=ts,js,nextjs,react,tailwind,nodejs,express,postgres,mongodb,bun,vercel,git,figma&theme=dark&perline=7" /><img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,tailwind,nodejs,express,postgres,mongodb,bun,vercel,git,figma&theme=dark" alt="TypeScript, JavaScript, Next.js, React, Tailwind CSS, Node.js, Express, PostgreSQL, MongoDB, Bun, Vercel, Git, Figma" /></picture>
+<picture><source media="(max-width: 600px)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Cnextjs%2Creact%2Ctailwind%2Cnodejs%2Cexpress%2Cpostgres%2Cmongodb%2Cbun%2Cvercel%2Cgit%2Cfigma&theme=dark&perline=7" /><img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,tailwind,nodejs,express,postgres,mongodb,bun,vercel,git,figma&theme=dark" alt="TypeScript, JavaScript, Next.js, React, Tailwind CSS, Node.js, Express, PostgreSQL, MongoDB, Bun, Vercel, Git, Figma" /></picture>
 
 ### Featured
 
