@@ -24,7 +24,7 @@ Team Lead / Software Engineer at [Typetech-IT](https://www.typetechit.com) · Dh
 
 ### Tech stack
 
-<img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,tailwind,nodejs,express,postgres,mongodb,bun,vercel,git,figma&theme=dark" alt="TypeScript, JavaScript, Next.js, React, Tailwind CSS, Node.js, Express, PostgreSQL, MongoDB, Bun, Vercel, Git, Figma" />
+<picture><source media="(max-width: 600px)" srcset="https://skillicons.dev/icons?i=ts,js,nextjs,react,tailwind,nodejs,express,postgres,mongodb,bun,vercel,git,figma&theme=dark&perline=7" /><img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,tailwind,nodejs,express,postgres,mongodb,bun,vercel,git,figma&theme=dark" alt="TypeScript, JavaScript, Next.js, React, Tailwind CSS, Node.js, Express, PostgreSQL, MongoDB, Bun, Vercel, Git, Figma" /></picture>
 
 ### Featured
 
@@ -34,4 +34,4 @@ Its [agent skills](https://github.com/S0vers/next-app-i18n-starter/tree/main/.ag
 
 ### GitHub stats
 
-<a href="https://github.com/S0vers"><img src="https://s0vers.com/github/stats.svg" width="800" alt="GitHub stats: contributions and streaks, stars, commits, pull requests, issues, and most used languages" /></a>
+<a href="https://github.com/S0vers"><picture><source media="(max-width: 600px)" srcset="https://s0vers.com/github/stats.svg?layout=narrow" /><img src="https://s0vers.com/github/stats.svg" width="800" alt="GitHub stats: contributions and streaks, stars, commits, pull requests, issues, and most used languages" /></picture></a>
