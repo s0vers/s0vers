@@ -27,7 +27,7 @@ Team Lead / Software Engineer at [Typetech-IT](https://www.typetechit.com) · Dh
 
 ### Featured
 
-<a href="https://github.com/S0vers/next-app-i18n-starter"><img src="https://s0vers.com/github/pin/next-app-i18n-starter" alt="next-app-i18n-starter" /></a>
+<a href="https://github.com/S0vers/next-app-i18n-starter"><img src="https://s0vers.com/github/pin/next-app-i18n-starter" alt="next-app-i18n-starter"/></a>
 
 Its [agent skills](https://github.com/S0vers/next-app-i18n-starter/tree/main/.agents/skills) teach coding agents Next.js i18n and SEO: `npx skills add s0vers/next-app-i18n-starter`
 
