@@ -16,7 +16,7 @@ Team Lead / Software Engineer at [Typetech-IT](https://www.typetechit.com) · Dh
 
 <br />
 
-- Building web apps and microservices with Next.js, React, TypeScript and Node.js, and leading the team that ships them.
+- Building web apps and microservices with Next.js, React, TypeScript and Node.js, Nest.js and leading the team that ships them.
 - Spending most evenings on agentic programming: building things together with AI agents.
 - Author of [next-app-i18n-starter](https://github.com/S0vers/next-app-i18n-starter), a Next.js 16 starter for multilingual apps.
 - Learning content creation and marketing. Reading *Meditations* by Marcus Aurelius.
