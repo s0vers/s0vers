@@ -14,6 +14,7 @@ Team Lead / Software Engineer at [Typetech-IT](https://www.typetechit.com) · Dh
 
 </div>
 
+
 <br />
 
 - Building web apps and microservices with Next.js, React, TypeScript and Node.js, Nest.js and leading the team that ships them.
